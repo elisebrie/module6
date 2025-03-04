@@ -30,12 +30,12 @@
 	    grid-area: aside;
 	}
 
-	aside2 {
+	.aside2 {
 	    height: auto;
 	    grid-area: aside2;
 	}
 
-	aside3 {
+	.aside3 {
 	    height: auto;
 	    grid-area: aside3;
 	}
